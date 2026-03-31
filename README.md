@@ -1,16 +1,4 @@
-> **This repo is for [Product Growth](https://www.news.aakashg.com) paid subscribers only.** Please do not share or redistribute. If you found this link somewhere other than your subscription, [subscribe here](https://www.news.aakashg.com).
-
 # PM GitHub Starter Kit
-
-Profile templates, project README templates, AI coding prompts, and a 3-week checklist to build a GitHub that gets you hired.
-
-**24% of PM candidates have a GitHub. The latest PMs I placed at OpenAI, Anthropic, and Meta AI all had one.**
-
-This is the companion repo to [How to Build a PM GitHub](https://www.news.aakashg.com/p/you-should-build-a-pm-github) — the web's first guide on PM GitHub profiles.
-
----
-
-## What's Inside
 
 ```
 pm-github-starter-kit/
